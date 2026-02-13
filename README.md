@@ -30,6 +30,7 @@ The goal is to derive business insights to support strategic decisions in game d
 ## 🗂 Project Structure
 
 Video-Game-Sales-and-Engagement-Analysis/
+
 │
 ├── data/
 │ ├── games.csv
